@@ -39,7 +39,9 @@ Finetuned ResNet-50 models For Office-31 dataset: [BaiduYun](https://pan.baidu.c
 | acmmm18[27] | MEDA | 86.2  | 97.2  | 99.4  | 85.3  | 72.4  | 74.0  | 85.8 |
 | icpram19[28]| LAD       | 89.9  | 98.0  | 99.8   | 90.6  | 74.0  | 75.3  | 87.9  | 
 | arxiv19[29] | RADA-yd   | 91.5  | 99.0  | 100.0  | 90.3  | 71.5  | 70.1  | 87.1  |
-| arxiv19[29] | RADA-dy   | 91.5  | 98.9  | 100.0  | 90.7  | 71.5  | 71.3  | 87.3  | 
+| arxiv19[29] | RADA-dy   | 91.5  | 98.9  | 100.0  | 90.7  | 71.5  | 71.3  | 87.3  |
+| cvpr18[30]  | MCD       | 89.6  | 98.5  | 100.0  | 91.3  | 69.6  | 70.8  | 86.6  |
+| icml19[31]  | MDD       | 94.5  | 98.4  | 100.0  | 93.5  | 74.6  | 72.2  | 88.9  |
 
 ## Office-Home
 
@@ -62,6 +64,7 @@ Finetuned ResNet-50 models For Office-Home dataset: [BaiduYun](https://pan.baidu
 | nips18[23]  | CDAN-RM   | 49.2  | 64.8  | 72.9  | 53.8  | 62.4  | 62.9  | 49.8  | 48.8  | 71.5  | 65.8  | 56.4  | 79.2  | 61.5  |
 | nips18[23]  | CDAN-M    | 50.6  | 65.9  | 73.4  | 55.7  | 62.7  | 64.2  | 51.8  | 49.1  | 74.5  | 68.2  | 56.9  | 80.7  | 62.8  |
 | acmmm18[27] | MEDA | **55.2**  | **76.2**  | **77.3**  | **58.0**  | **73.7**  | **71.9**  | **59.3**  | **52.4**  | **77.9**  | **68.2**  | **57.5**  | **81.8**  | **67.5**  |
+| imcl19[31]  | MDD       | 54.9  | 73.7  | 77.8  | 60.0  | 71.4  | 71.8  | 61.2  | 53.6  | 78.1  | 72.5  | 60.2  | 82.3  | 68.1  |
 
 ## Image-CLEF DA
 
@@ -89,6 +92,7 @@ Finetuned ResNet-50 models For ImageCLEF dataset: [BaiduYun](https://pan.baidu.c
 | cvpr18[24] | iCAN      | 79.5  | 89.7  | 94.7  | 89.9  | 78.5  | 92.0  | 87.4  |
 | acmmm18[27] | MEDA      | **80.2**  | 91.5  | 96.2  | **92.7**  | **79.1**  | **95.8**  | **89.3**  |
 | icpram19[28]| LAD      | 76.8  | 90.6  | 95.2  | 88.5  | 74.0  | 94.1  | 86.5  | 
+| arxiv19[29] | RADA-yd  | 78.8  | 92.1  | 97.3  | 90.9  | 76.4  | 94.6  | 88.4  |
 | arxiv19[29] | RADA-dy  | 79.2  | **92.4**  | 97.5 | 91.1 | 76.6 | 95.3 | 88.7  |
 
 ## Office+Caltech
@@ -159,6 +163,7 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 |  CyCADA |    95.6    |
 | PixelDA |    95.9    |
 |   UNIT  |    95.9    |
+|  MCD    |    96.5    | 
 
 ## References
 
@@ -220,3 +225,6 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 
 [29] Wang, Zeya et al. “Adversarial Domain Adaptation Being Aware of Class Relationships.” ArXiv abs/1905.11931 (2019): n. pag.
 
+[30] Saito, Kuniaki, et al. "Maximum classifier discrepancy for unsupervised domain adaptation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
+
+[31] Zhang, Yuchen et al. “Bridging Theory and Algorithm for Domain Adaptation.” ICML (2019).
