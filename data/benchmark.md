@@ -37,7 +37,9 @@ Finetuned ResNet-50 models For Office-31 dataset: [BaiduYun](https://pan.baidu.c
 | aaai19[25]  | JDDA      | 82.6  | 95.2  | 99.7   | 79.8  | 57.4  | 66.7  | 80.2  |
 | aaai18[26]  | MADA      | 90.1  | 97.4  | 99.6   | 87.8  | 70.3  | 66.4  | 85.2  |
 | acmmm18[27] | MEDA | 86.2  | 97.2  | 99.4  | 85.3  | 72.4  | 74.0  | 85.8 |
-| icpram19[28]| LAD       | 89.9  | 98.0  | 99.8   | 90.6  | 74.0  | 75.3  | 87.9  |  
+| icpram19[28]| LAD       | 89.9  | 98.0  | 99.8   | 90.6  | 74.0  | 75.3  | 87.9  | 
+| arxiv19[29] | RADA-yd   | 91.5  | 99.0  | 100.0  | 90.3  | 71.5  | 70.1  | 87.1  |
+| arxiv19[29] | RADA-dy   | 91.5  | 98.9  | 100.0  | 90.7  | 71.5  | 71.3  | 87.3  | 
 
 ## Office-Home
 
@@ -85,8 +87,9 @@ Finetuned ResNet-50 models For ImageCLEF dataset: [BaiduYun](https://pan.baidu.c
 | nips18[23]  | CDAN-M    | 78.3  | 91.2  | 96.7  | 91.2  | 77.2  | 93.7  | 88.1  |
 | cvpr18[24]  | CAN       | 78.2  | 87.5  | 94.2  | 89.5  | 75.8  | 89.2  | 85.7  |
 | cvpr18[24] | iCAN      | 79.5  | 89.7  | 94.7  | 89.9  | 78.5  | 92.0  | 87.4  |
-| acmmm18[27] | MEDA      | **80.2**  | **91.5**  | 96.2  | **92.7**  | **79.1**  | **95.8**  | **89.3**  |
+| acmmm18[27] | MEDA      | **80.2**  | 91.5  | 96.2  | **92.7**  | **79.1**  | **95.8**  | **89.3**  |
 | icpram19[28]| LAD      | 76.8  | 90.6  | 95.2  | 88.5  | 74.0  | 94.1  | 86.5  | 
+| arxiv19[29] | RADA-dy  | 79.2  | **92.4**  | 97.5 | 91.1 | 76.6 | 95.3 | 88.7  |
 
 ## Office+Caltech
 
@@ -214,4 +217,6 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 [27] Wang, Jindong, et al. "Visual Domain Adaptation with Manifold Embedded Distribution Alignment." 2018 ACM Multimedia Conference on Multimedia Conference. ACM, 2018.
 
 [28] Manders, Jeroen et al. Adversarial Alignment of Class Prediction Uncertainties for Domain Adaptation. In ICPRAM 2019.
+
+[29] Wang, Zeya et al. “Adversarial Domain Adaptation Being Aware of Class Relationships.” ArXiv abs/1905.11931 (2019): n. pag.
 
