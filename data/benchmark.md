@@ -44,6 +44,7 @@ Finetuned ResNet-50 models For Office-31 dataset: [BaiduYun](https://pan.baidu.c
 | icml19[31]  | MDD       | 94.5  | 98.4  | 100.0  | 93.5  | 74.6  | 72.2  | 88.9  |
 | arxiv19[32] | CANetwork | 94.5  | 99.1  | 99.8   | 95.0  | 78.0  | 77.0  | 90.6  |
 | arxiv19[33] | CAT       | 94.4  | 98.0  | 100.0  | 90.8  | 72.2  | 70.2  | 87.6  |
+| cvpr2019[35]| SymNets   | 90.8  | 98.8  | 100.0  | 93.9  | 74.6  | 72.5  | 88.4  |
 
 ## Office-Home
 
@@ -92,10 +93,11 @@ Finetuned ResNet-50 models For ImageCLEF dataset: [BaiduYun](https://pan.baidu.c
 | nips18[23]  | CDAN-M    | 78.3  | 91.2  | 96.7  | 91.2  | 77.2  | 93.7  | 88.1  |
 | cvpr18[24]  | CAN       | 78.2  | 87.5  | 94.2  | 89.5  | 75.8  | 89.2  | 85.7  |
 | cvpr18[24] | iCAN      | 79.5  | 89.7  | 94.7  | 89.9  | 78.5  | 92.0  | 87.4  |
-| acmmm18[27] | MEDA      | **80.2**  | 91.5  | 96.2  | **92.7**  | **79.1**  | **95.8**  | **89.3**  |
+| acmmm18[27] | MEDA      | **80.2**  | 91.5  | 96.2  | 92.7  | **79.1**  | 95.8  | **89.3**  |
 | icpram19[28]| LAD      | 76.8  | 90.6  | 95.2  | 88.5  | 74.0  | 94.1  | 86.5  | 
 | arxiv19[29] | RADA-yd  | 78.8  | 92.1  | 97.3  | 90.9  | 76.4  | 94.6  | 88.4  |
-| arxiv19[29] | RADA-dy  | 79.2  | **92.4**  | 97.5 | 91.1 | 76.6 | 95.3 | 88.7  |
+| arxiv19[29] | RADA-dy  | 79.2  | 92.4  | 97.5 | 91.1 | 76.6 | 95.3 | 88.7  |
+| cvpr2019[35]| SymNets  | 80.2  | **93.6** | 97.0 | **93.4** | 78.7 | **96.4** | **89.9** |
 
 ## Office+Caltech
 
@@ -237,3 +239,5 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 [33] Deng, Zhijie et al. “Cluster Alignment with a Teacher for Unsupervised Domain Adaptation.” CoRR abs/1903.09980 (2019): n. pag.
 
 [34] Minnehan, B. & Savakis, A. Machine Vision and Applications (2019) 30: 473. https://doi.org/10.1007/s00138-019-01003-1
+
+[35] Zhang, Yabin et al. “Domain-Symmetric Networks for Adversarial Domain Adaptation.” CoRR abs/1904.04663 (2019): n. pag.
