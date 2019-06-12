@@ -42,6 +42,8 @@ Finetuned ResNet-50 models For Office-31 dataset: [BaiduYun](https://pan.baidu.c
 | arxiv19[29] | RADA-dy   | 91.5  | 98.9  | 100.0  | 90.7  | 71.5  | 71.3  | 87.3  |
 | cvpr18[30]  | MCD       | 89.6  | 98.5  | 100.0  | 91.3  | 69.6  | 70.8  | 86.6  |
 | icml19[31]  | MDD       | 94.5  | 98.4  | 100.0  | 93.5  | 74.6  | 72.2  | 88.9  |
+| arxiv19[32] | CANetwork | 94.5  | 99.1  | 99.8   | 95.0  | 78.0  | 77.0  | 90.6  |
+| arxiv19[33] | CAT       | 94.4  | 98.0  | 100.0  | 90.8  | 72.2  | 70.2  | 87.6  |
 
 ## Office-Home
 
@@ -164,7 +166,7 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 | PixelDA |    95.9    |
 |   UNIT  |    95.9    |
 |  MCD    |    96.5    | 
-
+|  CAT    |    96.3    |
 ## References
 
 [1] Gong B, Shi Y, Sha F, et al. Geodesic flow kernel for unsupervised domain adaptation[C]//Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012: 2066-2073.
@@ -228,3 +230,6 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 [30] Saito, Kuniaki, et al. "Maximum classifier discrepancy for unsupervised domain adaptation." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
 
 [31] Zhang, Yuchen et al. “Bridging Theory and Algorithm for Domain Adaptation.” ICML (2019).
+
+[32] Kang, Guoliang et al. “Contrastive Adaptation Network for Unsupervised Domain Adaptation.” CoRR abs/1901.00976 (2019): n. pag.
+
