@@ -167,6 +167,7 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 |   UNIT  |    95.9    |
 |  MCD    |    96.5    | 
 |  CAT    |    96.3    |
+|MALT-DA[34]|    97.0    |
 ## References
 
 [1] Gong B, Shi Y, Sha F, et al. Geodesic flow kernel for unsupervised domain adaptation[C]//Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012: 2066-2073.
@@ -234,3 +235,5 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 [32] Kang, Guoliang et al. “Contrastive Adaptation Network for Unsupervised Domain Adaptation.” CoRR abs/1901.00976 (2019): n. pag.
 
 [33] Deng, Zhijie et al. “Cluster Alignment with a Teacher for Unsupervised Domain Adaptation.” CoRR abs/1903.09980 (2019): n. pag.
+
+[34] Minnehan, B. & Savakis, A. Machine Vision and Applications (2019) 30: 473. https://doi.org/10.1007/s00138-019-01003-1
