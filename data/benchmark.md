@@ -233,3 +233,4 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 
 [32] Kang, Guoliang et al. “Contrastive Adaptation Network for Unsupervised Domain Adaptation.” CoRR abs/1901.00976 (2019): n. pag.
 
+[33] Deng, Zhijie et al. “Cluster Alignment with a Teacher for Unsupervised Domain Adaptation.” CoRR abs/1903.09980 (2019): n. pag.
