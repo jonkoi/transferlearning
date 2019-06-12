@@ -86,6 +86,7 @@ Finetuned ResNet-50 models For ImageCLEF dataset: [BaiduYun](https://pan.baidu.c
 | cvpr18[24]  | CAN       | 78.2  | 87.5  | 94.2  | 89.5  | 75.8  | 89.2  | 85.7  |
 | cvpr18[24] | iCAN      | 79.5  | 89.7  | 94.7  | 89.9  | 78.5  | 92.0  | 87.4  |
 | acmmm18[27] | MEDA      | **80.2**  | **91.5**  | 96.2  | **92.7**  | **79.1**  | **95.8**  | **89.3**  |
+| icpram19[28]| LAD      | 76.8  | 90.6  | 95.2  | 88.5  | 74.0  | 94.1  | 86.5  | 
 
 ## Office+Caltech
 
