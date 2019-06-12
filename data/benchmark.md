@@ -37,6 +37,7 @@ Finetuned ResNet-50 models For Office-31 dataset: [BaiduYun](https://pan.baidu.c
 | aaai19[25]  | JDDA      | 82.6  | 95.2  | 99.7   | 79.8  | 57.4  | 66.7  | 80.2  |
 | aaai18[26]  | MADA      | 90.1  | 97.4  | 99.6   | 87.8  | 70.3  | 66.4  | 85.2  |
 | acmmm18[27] | MEDA | 86.2  | 97.2  | 99.4  | 85.3  | 72.4  | 74.0  | 85.8 |
+| icpram19[28]| LAD       | 89.9  | 98.0  | 99.8   | 90.6  | 74.0  | 75.3  | 87.9  |  
 
 ## Office-Home
 
@@ -211,4 +212,5 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 
 [27] Wang, Jindong, et al. "Visual Domain Adaptation with Manifold Embedded Distribution Alignment." 2018 ACM Multimedia Conference on Multimedia Conference. ACM, 2018.
 
+[28] Manders, Jeroen et al. Adversarial Alignment of Class Prediction Uncertainties for Domain Adaptation. In ICPRAM 2019.
 
