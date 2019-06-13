@@ -246,4 +246,4 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 
 [36] Cao, Zhangjie et al. “Learning to Transfer Examples for Partial Domain Adaptation.” CoRR abs/1903.12230 (2019): n. pag.
 
-[37] 
+[37] Liu, Hong et al. “Separate to Adapt : Open Set Domain Adaptation via Progressive Separation.” (2019).
