@@ -46,6 +46,7 @@ Finetuned ResNet-50 models For Office-31 dataset: [BaiduYun](https://pan.baidu.c
 | arxiv19[33] | CAT       | 94.4  | 98.0  | 100.0  | 90.8  | 72.2  | 70.2  | 87.6  |
 | cvpr19[35]  | SymNets   | 90.8  | 98.8  | 100.0  | 93.9  | 74.6  | 72.5  | 88.4  |
 | arxiv19[36] | ETN       | 94.5  | 100.0 | 100.0  | 95.03 | 96.21 | 94.64 | 96.73 |
+| arxiv19[37] | STA       | 92.1  | 96.5  | 99.5   | 96.1  | 93.5  | 87.4  | 94.1  |
 
 ## Office-Home
 
@@ -70,6 +71,7 @@ Finetuned ResNet-50 models For Office-Home dataset: [BaiduYun](https://pan.baidu
 | acmmm18[27] | MEDA | **55.2**  | **76.2**  | **77.3**  | **58.0**  | **73.7**  | **71.9**  | **59.3**  | **52.4**  | **77.9**  | **68.2**  | **57.5**  | **81.8**  | **67.5**  |
 | imcl19[31]  | MDD       | 54.9  | 73.7  | 77.8  | 60.0  | 71.4  | 71.8  | 61.2  | 53.6  | 78.1  | 72.5  | 60.2  | 82.3  | 68.1  |
 | arxiv19[36] | ETN       | 59.2  | 77.0  | 79.5  | 62.9  | 65.7  | 75.0  | 68.3  | 55.4  | 84.4  | 75.7  | 57.7  | 84.5  | 70.5  |
+
 
 ## Image-CLEF DA
 
@@ -171,7 +173,10 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 |   UNIT  |    95.9    |
 |  MCD    |    96.5    | 
 |  CAT    |    96.3    |
-|MALT-DA[34]|    97.0    |
+|MALT-DA[34]|    97.0  |
+| GPDR[38]  | 96.5       |
+| DWT[39] | 99.1 |
+
 ## References
 
 [1] Gong B, Shi Y, Sha F, et al. Geodesic flow kernel for unsupervised domain adaptation[C]//Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012: 2066-2073.
@@ -247,3 +252,5 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 [36] Cao, Zhangjie et al. “Learning to Transfer Examples for Partial Domain Adaptation.” CoRR abs/1903.12230 (2019): n. pag.
 
 [37] Liu, Hong et al. “Separate to Adapt : Open Set Domain Adaptation via Progressive Separation.” (2019).
+
+[38] Kim, Minyoung et al. “Unsupervised Visual Domain Adaptation: A Deep Max-Margin Gaussian Process Approach.” ArXiv abs/1902.08727 (2019): n. pag.
