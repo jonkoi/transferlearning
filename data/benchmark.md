@@ -44,7 +44,8 @@ Finetuned ResNet-50 models For Office-31 dataset: [BaiduYun](https://pan.baidu.c
 | icml19[31]  | MDD       | 94.5  | 98.4  | 100.0  | 93.5  | 74.6  | 72.2  | 88.9  |
 | arxiv19[32] | CANetwork | 94.5  | 99.1  | 99.8   | 95.0  | 78.0  | 77.0  | 90.6  |
 | arxiv19[33] | CAT       | 94.4  | 98.0  | 100.0  | 90.8  | 72.2  | 70.2  | 87.6  |
-| cvpr2019[35]| SymNets   | 90.8  | 98.8  | 100.0  | 93.9  | 74.6  | 72.5  | 88.4  |
+| cvpr19[35]  | SymNets   | 90.8  | 98.8  | 100.0  | 93.9  | 74.6  | 72.5  | 88.4  |
+| arxiv19[36] | ETN       | 94.5  | 100.0 | 100.0  | 95.03 | 96.21 | 94.64 | 96.73 |
 
 ## Office-Home
 
@@ -68,6 +69,7 @@ Finetuned ResNet-50 models For Office-Home dataset: [BaiduYun](https://pan.baidu
 | nips18[23]  | CDAN-M    | 50.6  | 65.9  | 73.4  | 55.7  | 62.7  | 64.2  | 51.8  | 49.1  | 74.5  | 68.2  | 56.9  | 80.7  | 62.8  |
 | acmmm18[27] | MEDA | **55.2**  | **76.2**  | **77.3**  | **58.0**  | **73.7**  | **71.9**  | **59.3**  | **52.4**  | **77.9**  | **68.2**  | **57.5**  | **81.8**  | **67.5**  |
 | imcl19[31]  | MDD       | 54.9  | 73.7  | 77.8  | 60.0  | 71.4  | 71.8  | 61.2  | 53.6  | 78.1  | 72.5  | 60.2  | 82.3  | 68.1  |
+| arxiv19[36] | ETN       | 59.2  | 77.0  | 79.5  | 62.9  | 65.7  | 75.0  | 68.3  | 55.4  | 84.4  | 75.7  | 57.7  | 84.5  | 70.5  |
 
 ## Image-CLEF DA
 
@@ -241,3 +243,5 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 [34] Minnehan, B. & Savakis, A. Machine Vision and Applications (2019) 30: 473. https://doi.org/10.1007/s00138-019-01003-1
 
 [35] Zhang, Yabin et al. “Domain-Symmetric Networks for Adversarial Domain Adaptation.” CoRR abs/1904.04663 (2019): n. pag.
+
+[36] Cao, Zhangjie et al. “Learning to Transfer Examples for Partial Domain Adaptation.” CoRR abs/1903.12230 (2019): n. pag.
