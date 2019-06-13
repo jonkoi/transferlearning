@@ -245,3 +245,5 @@ There are plenty of different configurations in MNIST+USPS datasets. Here we onl
 [35] Zhang, Yabin et al. “Domain-Symmetric Networks for Adversarial Domain Adaptation.” CoRR abs/1904.04663 (2019): n. pag.
 
 [36] Cao, Zhangjie et al. “Learning to Transfer Examples for Partial Domain Adaptation.” CoRR abs/1903.12230 (2019): n. pag.
+
+[37] 
